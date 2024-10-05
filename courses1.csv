@@ -1,0 +1,153 @@
+Title,Description,Curriculum
+Improving Real World RAG Systems: Key Challenges & Practical Solutions,"This course explores the key challenges in building real-world Retrieval-Augmented Generation (RAG) systems and provides practical solutions. Topics include improving data retrieval, dealing with hallucinations, context selection, and optimizing system performance using advanced prompting, retrieval strategies, and evaluation techniques. Through hands-on demos, you will gain insights into better chunking, embedding models, and agentic RAG systems for more robust, real-world applications.","Improving Real World RAG System
+Introduction to RAG Systems
+Resources
+RAG System Challenges Practical Solutions
+Hands-on: Solution for Missing Content in RAG
+Other Key Challenges
+Practical Solutions
+Hands-on: Solution for Missed Top Ranked, Not in Context, Not Extracted _ Incorrect SpecificityHands-on- Solution for Missed
+Wrong Format Problem Solution
+Hands-on: Solution for Wrong Format
+Incomplete Problem Solution
+HyDE
+Other Practical Solutions from recent Research Papers"
+Framework to Choose the Right LLM for your Business,"This course will guide you through the process of selecting the most suitable Large Language Model (LLM) for various business needs. By examining factors such as accuracy, cost, scalability, and integration, you will understand how different LLMs perform in specific scenarios, from customer support to healthcare and strategy development. The course emphasizes practical decision-making with real-world case studies, helping businesses navigate the rapidly evolving LLM landscape effectively.","Introduction
+Introduction
+2
+It's an LLM World!
+It's an LLM World!
+3
+Understand Your Business
+Understand Your Business
+4
+Framework to Choose the Right LLM
+Framework to Choose the Right LLM
+5
+Case Studies
+Case Studies
+6
+Conclusion
+Conclusion"
+Generative AI - A Way of Life,"This course is a transformative journey tailored for beginners and delves into AI-powered text and image generation using leading tools like ChatGPT, Microsoft Copilot, and DALLúE3. Learn practical applications across industries, ethical considerations, and best practices. Whether you're a content creator, business innovator, or AI enthusiast, gain the expertise to harness Generative AI's full potential and drive innovation in your field.","Introduction to Generative AI
+Fundamentals of Generative AI
+What is Generative AI?
+How does Generative AI work?
+Exploring the Potential of Generative AI
+GenAI Pinnacle Program
+Hands On: Let?s get generating!
+2
+Text Generation Using Generative AI
+An Overview of Text Generation
+What is ChatGPT?
+Working with ChatGPT
+Working with ChatGPT Plus
+Working with Bing Chat
+Breaking Bard
+Sponsored Ad
+Learning the Art of Prompting
+Creating a Chatbot
+Ethics and Best Practices
+3
+Image Generation Using Generative AI
+Introduction to Image Generation
+Exploring the Potential of Image Generation
+Working with free image generation tools
+Working with Clipdrop
+Working with Bing Image Creator
+Working with Firefly
+Working with Paid Image Generative Tools
+Working with paid image generative tools DreamStudio
+Working with DALLE-2
+Working with Midjourney
+Sponsored Ad
+Prompting your Way to Art
+Accomplishing Tasks with Image Generation
+E for Ethics and Efficiency"
+Building LLM Applications using Prompt Engineering -,"This course will provide you with a hands-on understanding of building LLM applications and mastering prompt engineering techniques. By the end of the course, you will be proficient in implementing and fine-tuning these techniques to enhance generative AI model performance. You'll learn to apply various prompting methods and build chatbots on enterprise data, equipping you with the skills to improve conversational AI systems in real-world projects.","How to build diffferent LLM AppIications?
+Introduction to Building Different LLM applications
+Prompt Engineering
+Retrieval Augmented Generation
+Finetuning LLMs
+Training LLMs from Scratch
+Quiz
+2
+Getting Started with Prompt Engineering
+Introduction to Prompt Engineering
+Set up your machine for Prompt Engineering
+Prompt Engineering with ChatGPT API
+Enabling Conversation with ChatGPT API
+Quiz
+3
+Understanding Different Prompt Engineering Techniques
+Introduction to Understanding Different Prompt Engineering Techniques
+Few Shot Prompting
+One Shot Prompting
+Zero Shot Prompting
+Quiz
+Assignment"
+Bagging and Boosting ML Algorithms - Free Course,"This course will provide you with a hands-on understanding of Bagging and Boosting techniques in machine learning. By the end of the course, you will be proficient in implementing and tuning these ensemble methods to enhance model performance. You'll learn to apply algorithms like Random Forest, AdaBoost, and Gradient Boosting to a real-world dataset, equipping you with the skills to improve predictive accuracy and robustness in your projects.","Bagging
+Resources to be used in this course
+Problem Statement
+Understanding Ensemble Learning
+Introducing Bagging Algorithms
+Hands-on to Bagging Meta Estimator
+Introduction to Random Forest
+Understanding Out-Of-Bag Score
+Random Forest VS Classical Bagging VS Decision Tree
+Project
+2
+Boosting
+Introduction to Boosting
+AdaBoost Step-by-Step Explanation
+Hands-on - AdaBoost
+Gradient Boosting Machines (GBM)
+Hands-on Gradient Boost
+Other Algo (XGBoost, LightBoost. CatBoost)
+Project: Anova Insurance"
+Understanding Linear Regression - Free Course,"This free course will help you understand the fundamentals of linear regression in a straightforward manner. By the end of this course, you will be able to build predictive models using linear regression techniques. With a carefully curated list of resources and exercises, this course serves as your comprehensive guide to mastering linear regression. ","Linear Regression
+Introduction to the Problem Statement
+Resources for this Course
+Introduction to Linear Regression
+Significance of Slope and Intercept in the linear regression
+How Model Decides The Best-Fit Line
+Let?s Build a Simple Linear Regression Model
+Model Understanding Using Descriptive Approach
+Model Understanding Using Descriptive Approach - II
+Model Building Using Predictive Approach
+Quiz: Linear regression"
+Building Your First Computer Vision Model - Free Course,"This course will help you gain a deep understanding of Computer Vision and build advanced CV models using the PyTorch framework. With a carefully curated list of resources and exercises, this course is your guide to becoming a Computer Vision expert. Master the techniques to build convolutional neural networks, and classify images.","Introduction to Computer Vision
+Pixel Perfect - Decoding Images
+Understanding a CNN - Convolutional Layer
+Hands on - Image Processing Techniques
+Understanding a CNN - Striding and Pooling
+Understanding a CNN - Pooling Layer
+Understanding AlexNet and Building a CNN Model
+Quiz"
+MidJourney: From Inspiration to Implementation - Free Course,"This course will provide you with a practical understanding of MidJourney tools. By the end of the course, you will be able to utilize MidJourney effectively and explore alternative tools for your creative projects. You'll learn how to draw inspiration, use MidJourney's features, and understand its applications through engaging lessons.","MidJourney
+MidJourney - Storm _ Story
+MidJourney - Inspiration
+MidJourney - How to use
+MidJourney Alternatives
+Quiz"
+Building Smarter LLMs with Mamba and State Space Model,"Unlock the Power of State Space Models (SSM) like Mamba with our comprehensive course designed for AI professionals, data scientists, and NLP enthusiasts. Master the art of integrating SSM with deep learning, unravel the complexities of models like Mamba, and elevate your understanding of Generative AI's newest and most innovative models. This course is designed to equip you with the skills needed to understand these cutting-edge AI models and how they work, making you proficient in the latest AI techniques and architectures.","Course Overview
+Course Overview
+2
+An Alternative to Transformers
+Are RNNs a Solution
+The Problem with Transformers
+3
+Understanding State Space Models
+What is a State Space Model?
+The Discrete Representation
+The Recurrent Representation
+The Convolution Representation
+The Three Representations
+The Importance of the A Matrix
+4
+Mamba - A Selective State Space Model
+What Problem does it attempt to Solve?
+Selectively Retaining Information
+Speeding Up Computations
+Exploring the Mamba Block
+Jamba - Mixing Mamba with Transformers"

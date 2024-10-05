@@ -1,0 +1,6 @@
+gradio
+numpy
+scikit-learn
+pandas
+transformers  # If you're using Hugging Face's transformers library for the model/tokenizer
+
